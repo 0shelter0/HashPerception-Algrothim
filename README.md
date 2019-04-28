@@ -33,3 +33,7 @@ git push -u origin master
 * 将库同步到本地库， **git pull origin master**
 * remote-->自己机器的仓库 origin-->github的仓库
 
+##### 还有一点需要注意的是：
+
++ .............................
+
