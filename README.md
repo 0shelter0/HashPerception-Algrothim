@@ -31,5 +31,5 @@ git push -u origin master
 
 * 每次 **本地提交后 **，只要有必要，就可以使用命令`git push origin master`推送最新修改。
 * 将库同步到本地库， **git pull origin master**
-* remote-->自己的机器的仓库 origin-->github的仓库
+* remote-->自己机器的仓库 origin-->github的仓库
 
